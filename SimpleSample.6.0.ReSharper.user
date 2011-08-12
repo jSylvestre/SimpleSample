@@ -1,0 +1,123 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #5</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="SimpleSample.Test.UnitTest1" type="MsTestTestClassElement" TypeName="SimpleSample.Test.UnitTest1" Project="46EB7DEF-E639-4F63-A14B-B1FECAB35D09" />
+        <UnitTestElement Provider="MSTest" Id="SimpleSample.Test.UnitTest1.CanCommitValidEntity" ParentId="SimpleSample.Test.UnitTest1" type="MsTestTestMethodElement" MethodName="CanCommitValidEntity" Project="46EB7DEF-E639-4F63-A14B-B1FECAB35D09" />
+        <UnitTestElement Provider="MSTest" Id="SimpleSample.Test.UnitTest1.CanGetNullValueUsingGetByNullableWithInvalidId" ParentId="SimpleSample.Test.UnitTest1" type="MsTestTestMethodElement" MethodName="CanGetNullValueUsingGetByNullableWithInvalidId" Project="46EB7DEF-E639-4F63-A14B-B1FECAB35D09" />
+        <UnitTestElement Provider="MSTest" Id="SimpleSample.Test.UnitTest1.CanSaveValidEntity" ParentId="SimpleSample.Test.UnitTest1" type="MsTestTestMethodElement" MethodName="CanSaveValidEntity" Project="46EB7DEF-E639-4F63-A14B-B1FECAB35D09" />
+        <UnitTestElement Provider="MSTest" Id="SimpleSample.Test.UnitTest1.TestMethod1" ParentId="SimpleSample.Test.UnitTest1" type="MsTestTestMethodElement" MethodName="TestMethod1" Project="46EB7DEF-E639-4F63-A14B-B1FECAB35D09" />
+        <UnitTestElement Provider="MSTest" Id="SimpleSample.Test.UnitTest1.TestMethod2" ParentId="SimpleSample.Test.UnitTest1" type="MsTestTestMethodElement" MethodName="TestMethod2" Project="46EB7DEF-E639-4F63-A14B-B1FECAB35D09" />
+        <UnitTestElement Provider="MSTest" Id="SimpleSample.Test.UnitTest1.TestMethod3" ParentId="SimpleSample.Test.UnitTest1" type="MsTestTestMethodElement" MethodName="TestMethod3" Project="46EB7DEF-E639-4F63-A14B-B1FECAB35D09" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:Program.cs" caret="0" fromTop="0" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:App.config" caret="1055" fromTop="17" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:DomainObject.cs" caret="2725" fromTop="22" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:IDomainObjectWithTypedId.cs" caret="550" fromTop="16" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="3529" fromTop="19" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:IDomainObjectWithTypedId.cs" caret="550" fromTop="16" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:NHibernateSessionManager.cs" caret="989" fromTop="22" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:UnitTest1.cs" caret="232" fromTop="10" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:ExampleTable.cs" caret="374" fromTop="13" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:FluentRepositoryTestBase.cs" caret="624" fromTop="15" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="2436" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:UnitTest1.cs" caret="162" fromTop="5" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:ExampleTable.cs" caret="222" fromTop="9" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="168" fromTop="5" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="638" fromTop="8" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="835" fromTop="16" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="965" fromTop="20" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="1757" fromTop="26" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="3117" fromTop="17" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="3656" fromTop="21" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="4162" fromTop="14" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="335" fromTop="10" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:UnitTest1.cs" caret="1206" fromTop="30" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:UnitTest1.cs" caret="702" fromTop="18" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:UnitTest1.cs" caret="783" fromTop="23" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:App.config" caret="0" fromTop="0" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:App.config" caret="2176" fromTop="40" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:App.config" caret="1055" fromTop="17" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="6401" fromTop="21" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="204" fromTop="9" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="6401" fromTop="38" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="1519" fromTop="37" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="2224" fromTop="29" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="4113" fromTop="31" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="4504" fromTop="21" />
+      <File id="FADE17E4-2125-4DC2-A000-82C0EECF0502/f:DomainObject.cs" caret="3529" fromTop="19" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="4175" fromTop="11" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:UnitTest1.cs" caret="471" fromTop="16" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:FluentRepositoryTestBase.cs" caret="293" fromTop="12" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="2288" fromTop="24" />
+      <File id="46EB7DEF-E639-4F63-A14B-B1FECAB35D09/f:AbstractRepositoryTests.cs" caret="2436" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="158" />
+      <Item value="virtual" priority="95" />
+      <Item value="int" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="class" priority="30" />
+      <Item value="ExampleTableMap`0" priority="31" />
+      <Item value="x" priority="95" />
+      <Item value="Map`0" priority="63" />
+      <Item value="PrimaryKeyConvention`0" priority="31" />
+      <Item value="new" priority="63" />
+      <Item value="using" priority="92" />
+      <Item value="SimpleSample" priority="92" />
+      <Item value="return" priority="63" />
+      <Item value="ExampleTable" priority="28" />
+      <Item value="var" priority="31" />
+      <Item value="rtValue" priority="159" />
+      <Item value="counter" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="override" priority="31" />
+      <Item value="Repository" priority="31" />
+      <Item value="ExampleTable`0" priority="31" />
+      <Item value="DbContext`0" priority="31" />
+      <Item value="LoadRecords`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleSample.ExampleTable">
+      <Item value="Id" priority="26" />
+      <Item value="Col1" priority="80" />
+      <Item value="Col2" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleSample.Test.IRepository">
+      <Item value="OfType`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleSample.Test.IDbContext">
+      <Item value="BeginTransaction`0" priority="27" />
+      <Item value="CommitTransaction`0" priority="27" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

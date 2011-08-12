@@ -1,0 +1,13 @@
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\SimpleSample.exe
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\SimpleSample.pdb
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\Castle.Core.dll
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\FluentNHibernate.dll
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\NHibernate.ByteCode.Spring.dll
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\NHibernate.dll
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\obj\x86\Debug\SimpleSample.exe
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\obj\x86\Debug\SimpleSample.pdb
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\obj\x86\Debug\Decl\SimpleSample.exe
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\obj\x86\Debug\Decl\SimpleSample.pdb
+C:\Users\Sylvestre\Documents\Visual Studio 2010\Projects\SimpleSample\SimpleSample\bin\Debug\Iesi.Collections.dll
